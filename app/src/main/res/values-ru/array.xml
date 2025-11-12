@@ -1,1 +1,31 @@
-aaa
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_language_titles">
+        <item>Язык по умолчанию</item>
+        <item>Английский</item>
+        <item>Эсперанто</item>
+        <item>Французский</item>
+        <item>Немецкий</item>
+        <item>Польский</item>
+        <item>Португальский</item>
+        <item>Русский</item>
+    </string-array>
+
+    <string-array name="pref_language_values">
+        <item>default</item>
+        <item>en</item>
+        <item>eo</item>
+        <item>fr</item>
+        <item>de</item>
+        <item>pl</item>
+        <item>pt</item>
+        <item>ru</item>
+    </string-array>
+
+    <string-array name="pref_orientation_titles">
+        <item>Следовать настройкам системы</item>
+        <item>Портретная ориентация</item>
+        <item>Альбомная ориентация</item>
+        <item>Альбомная ориентация вверх ногами</item>
+    </string-array>
+</resources>
